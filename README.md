@@ -17,6 +17,7 @@ Connecting the camera:
 Plug in the camera module to Tessel port A.
 
 Running the code:
+
 1. Clone this repo.
 1. From inside this directory, run `npm install` to install dependencies.
 1. Run the code with `tessel run index.js --upload-dir .` (the flag specifies where pictures will be saved).
