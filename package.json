@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Frijol/Motion-Activated-Camera",
   "dependencies": {
-    "camera-vc0706": "^0.1.6"
+    "camera-vc0706": "^0.1.6",
+    "tiny-router": "0.0.6"
   }
 }
